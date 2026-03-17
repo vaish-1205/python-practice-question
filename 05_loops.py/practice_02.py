@@ -1,4 +1,5 @@
-#Number Guessing Game (Limited Attempts) (while loop)
+#Concept: While loop
+#Number Guessing Game (Limited Attempts) 
 #problem 1:WRite a program that :
 #Stores a secret number (for example: 27)
 #Gives the user 5 attempts to guess the number.

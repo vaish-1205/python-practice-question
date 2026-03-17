@@ -1,4 +1,4 @@
-#while loop
+# Concept:while loop
 #Problem:Write a program that:
 #1.Takes a number n
 #2.Counts how many digits are in that number

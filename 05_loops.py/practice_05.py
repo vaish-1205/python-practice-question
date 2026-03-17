@@ -1,4 +1,4 @@
-#while  loop 
+# Concept : while  loop 
 #problem:Write a Python program using a while loop that:
 #Takes a number as input from the user
 #Calculates the sum of its digits

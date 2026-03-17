@@ -1,4 +1,4 @@
-#Que.Reverse a Number (Without Using String)
+#Concept : While loop
 #Write a program that :Write a Python program using a while loop that:
 #Takes an integer input from user
 # #Reverses the number

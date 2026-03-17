@@ -1,4 +1,4 @@
-#while loop:
+# Concept: while loop:
 #problem:Write a Python program using a while loop to check whether a number is an Armstrong number.
 
 

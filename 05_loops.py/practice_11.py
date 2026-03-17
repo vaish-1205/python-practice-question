@@ -1,3 +1,4 @@
+#Concept: Nested Loop
 #print reverse triangle
 
 rows=int(input("enter the numbers of  row:"))

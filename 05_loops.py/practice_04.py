@@ -1,3 +1,4 @@
+#Concept : While loop
 #Write a program for palindrome number using while loop
 num=int(input("enter the number:"))
 original=num
@@ -9,4 +10,4 @@ while num>0:
 if original==reverse:
         print("palindrome number")
 else:
-        print("Not a palindromoe number")
+        print("Not a palindrome number")
